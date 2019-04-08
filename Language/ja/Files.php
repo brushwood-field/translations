@@ -14,8 +14,8 @@
  */
 
 return [
-   'fileNotFound'    => 'File not found: {0}',
-   'cannotMove'      => 'Could not move file {0} to {1} ({2})',
-   'invalidFilename' => 'Target filename missing or invalid: {0}',
-   'cannotCopy'      => 'Could not copy to {0} - make sure the folder is writeable',
+   'fileNotFound'    => 'ファイルが見つかりません： {0}', // 'File not found: {0}',
+   'cannotMove'      => 'ファイル {0} を {1} に移動できませんでした（{2}）', // 'Could not move file {0} to {1} ({2})',
+   'invalidFilename' => 'ターゲット名見つからないか無効です： {0}', // 'Target filename missing or invalid: {0}',
+   'cannotCopy'      => '{0} にコピーできませんでした - フォルダが書き込み可能であることを確認してください', // 'Could not copy to {0} - make sure the folder is writeable',
 ];
