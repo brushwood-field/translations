@@ -14,10 +14,10 @@
  */
 
 return [
-   'jsonErrorDepth'         => 'スタックの深さが最大に達しました.', // 'Maximum stack depth exceeded',
-   'jsonErrorStateMismatch' => 'アンダーフローあるいはモードの不一致が発生しました.', // 'Underflow or the modes mismatch',
-   'jsonErrorCtrlChar'      => '制御文字エラー、おそらくエンコードが間違っています.', // 'Unexpected control character found',
-   'jsonErrorSyntax'        => '構文エラー、JSONの不正な形式', // 'Syntax error, malformed JSON',
-   'jsonErrorUtf8'          => '正しくエンコードされていないなど、不正な形式の UTF-8 文字.', // 'Malformed UTF-8 characters, possibly incorrectly encoded',
+   'jsonErrorDepth'         => 'スタックの深さが最大に達しました。', // 'Maximum stack depth exceeded',
+   'jsonErrorStateMismatch' => 'アンダーフローあるいはモードの不一致が発生しました。', // 'Underflow or the modes mismatch',
+   'jsonErrorCtrlChar'      => '制御文字エラー。おそらくエンコードが間違っています。', // 'Unexpected control character found',
+   'jsonErrorSyntax'        => '構文エラー。不正な形式のJSON', // 'Syntax error, malformed JSON',
+   'jsonErrorUtf8'          => '不正な形式の UTF-8 文字。正しくエンコードされていないなど。', // 'Malformed UTF-8 characters, possibly incorrectly encoded',
    'jsonErrorUnknown'       => '不明なエラー', // 'Unknown error',
 ];

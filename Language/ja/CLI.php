@@ -15,7 +15,7 @@
  */
 
 return [
-   'commandNotFound' => 'コマンド "{0}" が見つかりません.', // 'Command "{0}" not found.',
+   'commandNotFound' => 'コマンド "{0}" が見つかりません。', // 'Command "{0}" not found.',
    'helpUsage'       => '使用法：', //'Usage:',
    'helpDescription' => '説明：', // 'Description:',
    'helpOptions'     => 'オプション：', // 'Options:',
