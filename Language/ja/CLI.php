@@ -15,10 +15,10 @@
  */
 
 return [
-   'commandNotFound' => 'Command "{0}" not found.',
-   'helpUsage'       => 'Usage:',
-   'helpDescription' => 'Description:',
-   'helpOptions'     => 'Options:',
-   'helpArguments'   => 'Arguments:',
-   'invalidColor'    => 'Invalid {0} color: {1}.',
+   'commandNotFound' => 'コマンド "{0}" が見つかりません.', // 'Command "{0}" not found.',
+   'helpUsage'       => '使用法：', //'Usage:',
+   'helpDescription' => '説明：', // 'Description:',
+   'helpOptions'     => 'オプション：', // 'Options:',
+   'helpArguments'   => '引数：', // 'Arguments:',
+   'invalidColor'    => '無効 {0} 色： {1}', // 'Invalid {0} color: {1}.',
 ];
