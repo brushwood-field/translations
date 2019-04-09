@@ -21,10 +21,10 @@ return [
    'kilobyteAbbr' => 'KB',
    'bytes'        => 'Bytes',
 
-	// don't forget the space in front of these!
-   'thousand'     => ' thousand',
-   'million'      => ' million',
-   'billion'      => ' billion',
-   'trillion'     => ' trillion',
-   'quadrillion'  => ' quadrillion',
+    // don't forget the space in front of these!
+   'thousand'     => ' 千', // ' thousand',
+   'million'      => ' 百万', // ' million',
+   'billion'      => ' 十億', // ' billion',
+   'trillion'     => ' 兆', // ' trillion',
+   'quadrillion'  => ' 千兆', // ' quadrillion',
 ];
