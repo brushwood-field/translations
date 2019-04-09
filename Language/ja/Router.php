@@ -15,6 +15,6 @@
  */
 
 return [
-   'invalidParameter'    => 'A parameter does not match the expected type.',
-   'missingDefaultRoute' => 'Unable to determine what should be displayed. A default route has not been specified in the routing file.',
+   'invalidParameter'    => 'パラメータが期待されるタイプと一致していません。', // 'A parameter does not match the expected type.',
+   'missingDefaultRoute' => '表示することができません。デフォルトルートがルーティングファイルで指定されていません。', // 'Unable to determine what should be displayed. A default route has not been specified in the routing file.',
 ];
