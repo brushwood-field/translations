@@ -15,8 +15,8 @@
  */
 
 return [
-   'unableToWrite'   => 'キャッシュ {0} に書き込むことができません。', // 'Cache unable to write to {0}',
-   'invalidHandlers' => 'キャッシュの設定は $validHandlers の配列を持っている必要があります。', // 'Cache config must have an array of $validHandlers.',
-   'noBackup'        => 'キャッシュの設定は handler と backupHandler を持っている必要があります。', // 'Cache config must have a handler and backupHandler set.',
-   'handlerNotFound' => 'キャッシュの設定が無効な handler または指定された backupHandler を持っています。', // 'Cache config has an invalid handler or backup handler specified.',
+   'unableToWrite'   => 'キャッシュ {0} に書き込むことができません。',
+   'invalidHandlers' => 'キャッシュの設定は $validHandlers の配列を持っている必要があります。',
+   'noBackup'        => 'キャッシュの設定は handler と backupHandler を持っている必要があります。',
+   'handlerNotFound' => 'キャッシュの設定が無効な handler または指定された backupHandler を持っています。',
 ];

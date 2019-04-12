@@ -15,6 +15,6 @@
  */
 
 return [
-   'noFilter'           => '{0} のフィルタは、定義された一致する別名を持っている必要があります。', // '{0} filter must have a matching alias defined.',
-   'incorrectInterface' => '{0} CodeIgniter\Filters\FilterInterface を実装する必要があります。', // '{0} must implement CodeIgniter\Filters\FilterInterface.',
+   'noFilter'           => '{0} のフィルタは、定義された一致する別名を持っている必要があります。',
+   'incorrectInterface' => '{0} CodeIgniter\Filters\FilterInterface を実装する必要があります。',
 ];

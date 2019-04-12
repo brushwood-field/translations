@@ -15,6 +15,6 @@
  */
 
 return [
-   'invalidJSON'      => 'JSON の解析に失敗しました： "{0}"', // 'Failed to parse json string, error: "{0}".',
-   'missingExtension' => 'XML をフォーマットするには、SimpleXML 拡張モジュールが必要です。', // 'The SimpleXML extension is required to format XML.',
+   'invalidJSON'      => 'JSON の解析に失敗しました： "{0}"',
+   'missingExtension' => 'XML をフォーマットするには、SimpleXML 拡張モジュールが必要です。',
 ];

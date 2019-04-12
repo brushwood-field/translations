@@ -15,8 +15,8 @@
  */
 
 return [
-   'invalidFile'      => '無効なファイル： {0}', // 'Invalid file: {0}',
-   'copyError'        => 'ファイルを書き換える際にエラーが発生しました。ファイルのディレクトリが書き込み可能であることを確認してください。', // 'An error was encountered while attempting to replace the file. Please make sure your file directory is writable.',
-   'missingExtension' => '{0} 拡張機能がロードされていません。', // '{0} extension is not loaded.',
-   'noHandlers'       => '{0} 少なくとも一つの Handler を提供する必要があります。', // '{0} must provide at least one Handler.',
+   'invalidFile'      => '無効なファイル： {0}',
+   'copyError'        => 'ファイルを書き換える際にエラーが発生しました。ファイルのディレクトリが書き込み可能であることを確認してください。',
+   'missingExtension' => '{0} 拡張機能がロードされていません。',
+   'noHandlers'       => '{0} 少なくとも一つの Handler を提供する必要があります。',
 ];

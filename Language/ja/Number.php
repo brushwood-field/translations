@@ -22,9 +22,9 @@ return [
    'bytes'        => 'Bytes',
 
     // don't forget the space in front of these!
-   'thousand'     => ' 千', // ' thousand',
-   'million'      => ' 百万', // ' million',
-   'billion'      => ' 十億', // ' billion',
-   'trillion'     => ' 兆', // ' trillion',
-   'quadrillion'  => ' 千兆', // ' quadrillion',
+   'thousand'     => ' 千',
+   'million'      => ' 百万',
+   'billion'      => ' 十億',
+   'trillion'     => ' 兆',
+   'quadrillion'  => ' 千兆',
 ];

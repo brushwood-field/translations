@@ -15,13 +15,13 @@
  */
 
 return [
-   'pageNavigation'         => 'ページナビゲーション', // 'Page navigation',
-   'first'                  => '最初', // 'First',
-   'previous'               => '前', // 'Previous',
-   'next'                   => '次', // 'Next',
-   'last'                   => '最後', // 'Last',
-   'older'                  => '古い', // 'Older',
-   'newer'                  => '新しい', // 'Newer',
-   'invalidTemplate'        => '{0} は有効なページャーテンプレートではありません。', // '{0} is not a valid Pager template.',
-   'invalidPaginationGroup' => '{0} は有効なページネーショングループではありません。', // '{0} is not a valid Pagination group.',
+   'pageNavigation'         => 'ページナビゲーション',
+   'first'                  => '最初',
+   'previous'               => '前',
+   'next'                   => '次',
+   'last'                   => '最後',
+   'older'                  => '古い',
+   'newer'                  => '新しい',
+   'invalidTemplate'        => '{0} は有効なページャーテンプレートではありません。',
+   'invalidPaginationGroup' => '{0} は有効なページネーショングループではありません。',
 ];
