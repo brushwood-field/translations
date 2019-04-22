@@ -1,5 +1,4 @@
 <?php
-
 /**
  * CLI language strings.
  *
