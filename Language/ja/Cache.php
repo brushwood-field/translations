@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Cache language strings.
  *
